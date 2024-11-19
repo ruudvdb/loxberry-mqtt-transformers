@@ -2,7 +2,7 @@
 <?php
 	if( $argv[1] == 'skills' ) {
 		echo "description=Converting escaped double quotes to normal double quotes\n";
-		echo "link=\n";
+		echo "link=https://github.com/ruudvdb/loxberry-mqtt-transformers\n";
 		echo "input=text\n";
 		echo "output=text\n";
 		exit();
